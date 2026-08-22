@@ -262,7 +262,7 @@ with right:
     </a>
 
     <a class="social-link"
-       href="www.linkedin.com/in/soham-pakhare"
+       href="https://www.linkedin.com/in/soham-pakhare/"
        target="_blank">
        💼 <strong>LinkedIn</strong> —
        Connect with me
