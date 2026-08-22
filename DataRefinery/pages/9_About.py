@@ -255,7 +255,7 @@ with right:
     </a>
 
     <a class="social-link"
-       href="https://github.com/yourusername"
+       href="https://github.com/ExceptionalSoham"
        target="_blank">
        🐙 <strong>GitHub</strong> —
        View my projects
@@ -474,7 +474,7 @@ with c2:
         <div class="connect-icon">🐙</div>
         <div class="connect-title">GitHub</div>
         <div class="connect-text">
-            github.com/yourusername
+            https://github.com/ExceptionalSoham
         </div>
     </div>
     """)
