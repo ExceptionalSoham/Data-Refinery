@@ -262,7 +262,7 @@ with right:
     </a>
 
     <a class="social-link"
-       href="https://linkedin.com/in/yourusername"
+       href="www.linkedin.com/in/soham-pakhare"
        target="_blank">
        💼 <strong>LinkedIn</strong> —
        Connect with me
@@ -485,7 +485,7 @@ with c3:
         <div class="connect-icon">💼</div>
         <div class="connect-title">LinkedIn</div>
         <div class="connect-text">
-            linkedin.com/in/yourusername
+            www.linkedin.com/in/soham-pakhare
         </div>
     </div>
     """)
